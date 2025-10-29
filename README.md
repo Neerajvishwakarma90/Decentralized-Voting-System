@@ -17,3 +17,6 @@ To create a secure, transparent, and decentralized way to conduct elections with
 - Implementation of voter registration and eligibility verification.
 - Development of a web-based DApp frontend using React and Web3.js.
 - Enabling multiple elections with different candidates and time limits.
+
+- <img width="1801" height="748" alt="image" src="https://github.com/user-attachments/assets/a6dcc9ab-cf7b-4726-bad2-036faf2841e8" />
+
